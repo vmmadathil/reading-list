@@ -8,7 +8,7 @@ A repo for the academic papers, books, and other things I'm reading. My goal is 
 
 ^ indicates a workshop paper
 ## Books 
-
+* A Promised Land - Barack Obama (01-02/2021)
 
 ## Notes
 
